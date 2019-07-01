@@ -1,0 +1,10 @@
+D:\VS_Project\TomatoClock\TomatoClock\bin\Debug\TomatoClock.exe.config
+D:\VS_Project\TomatoClock\TomatoClock\bin\Debug\TomatoClock.exe
+D:\VS_Project\TomatoClock\TomatoClock\bin\Debug\TomatoClock.pdb
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.csprojAssemblyReference.cache
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.TomatoClock.resources
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.Properties.Resources.resources
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.csproj.GenerateResource.cache
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.csproj.CoreCompileInputs.cache
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.exe
+D:\VS_Project\TomatoClock\TomatoClock\obj\Debug\TomatoClock.pdb
